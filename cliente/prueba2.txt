@@ -1,0 +1,6 @@
+Hola, este es el archivo prueba2.
+Este archivo contiene 6 lineas de texto,
+las cuales necesitan 369 bytes de almacenamiento en disco.
+Este archivo contiene 58 palabras y 369 caracteres.
+Ahora, espero puedan recibir el contenido completo de este archivo.
+Se han omitido las tildes y esta es la ultima lineas del archivo. Lo han descargado correctamente, felicitaciones!
